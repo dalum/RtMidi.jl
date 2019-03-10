@@ -1,0 +1,11 @@
+name = "RtMidi"
+uuid = "3bb7656c-432d-11e9-04a5-bdb9eda4a8a0"
+authors = ["Sakse Dalum <dalum@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+BinDeps = "9e28174c-4ba2-5203-b857-d8d62c4213ee"
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+InlineExports = "809d7502-0c9d-5bc2-962a-5201dc498f73"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
